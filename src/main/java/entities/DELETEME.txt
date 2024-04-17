@@ -1,0 +1,8 @@
+CREATE TABLE cd (
+    UserID int,
+    Title varchar(255),
+    Description varchar(255),
+    Year int,
+    Artist varchar(255),
+    Price float
+);
